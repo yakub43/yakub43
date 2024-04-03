@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java as a full stack developer in the backend using<br>Spring, SpringBoot, and in frontend working with the Angular JS<br>👯 I’m happy to connect with the people who are always learning in collaborative mode.<br>🤝 I’m always ready to help people who are stuck in between process of learning.<br>🌱 I’m currently learning Node.js and Go Lang<br>💬 Ask me about Java and Angular <br>⚡ Fun fact -> Listen to music while code
+🔭 I’m currently working on Java as a full stack developer in the backend using<br>Spring, SpringBoot, and in frontend working with the Angular JS<br>👯 I’m happy to connect with the people who are always learning in collaborative mode.<br>🤝 I’m always ready to help people who are stuck in between the process of learning.<br>🌱 I’m currently learning Node.js and Go Lang for Backend Development<br>💬 Ask me about Java and Angular <br>⚡ Fun fact -> Listen to music while code
 
 
 ## 🌐 Socials:
